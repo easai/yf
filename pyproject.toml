@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.13"
 yfinance = "^0.2.66"
 matplotlib = "^3.10.6"
+jupyter = "^1.1.1"
+inflect = "^7.5.0"
 
 
 [build-system]
