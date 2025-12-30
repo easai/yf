@@ -1,3 +1,3 @@
-Now occupy nearly every slot in the world’s top 10 by market capitalization. For perspective: Apple alone is valued at over $3.5 trillion, making it more than ten times richer than Toyota, Japan’s largest company. The scale is not just impressive; it is staggering.
+The U.S. stock market is colossal, valued at over $53 trillion. It is nearly three times larger than Europe’s and more than ten times the size of Japan’s, which sits at roughly $6 trillion. This dominance comes from a powerful concentration in technology companies. The result is clear: U.S. tech giants now hold nearly every spot in the world’s top 10 by market capitalization. For perspective, Apple alone is worth more than $3.5 trillion, making it over ten times richer than Toyota, Japan’s largest company. The scale is not just impressive; it is staggering.
 
 [What is the market capitalization of Apple Inc.?](https://github.com/easai/yf/blob/main/marketcaps.ipynb)
